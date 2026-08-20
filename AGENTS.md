@@ -1,7 +1,4 @@
-Use very concise sentences when reporting of what you do and what you'll do next.
 Always answer in english unless explicitly asked otherwise.
-Always keep documentation up-to-date.
-Always write test code before logic code.
 Enumerate files when using `git add`, don't `git add .` or `git commit -a`
 
 If the project is released, you need to keep backward compatibility for updates. That includes API contract and Database Migrations.
