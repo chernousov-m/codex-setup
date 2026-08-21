@@ -25,3 +25,9 @@ use go-i18n for localizing user-facing texts. Only if need i18n
 `nix`-prefixed commands always require approval as they hit the directories outside the sandbox.
 When project provides a flake don't assume that anything is installed on the machine. All tools that you need during development and testing belong in the flake. Use it and update if necessary.
 Checks only in Nix flakes that actually build some code. Only run actual tests in checks. No checks for the flake contents itself
+
+## Agent skills
+
+### Issue tracker
+
+Issues and specs are tracked as local Markdown files under `.scratch/`. See `docs/agents/issue-tracker.md`.

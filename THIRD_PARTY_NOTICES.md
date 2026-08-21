@@ -12,6 +12,7 @@ The following skill directories are copied from
 - `skills/implement`
 - `skills/prototype`
 - `skills/tdd`
+- `skills/to-tickets`
 - `skills/wayfinder`
 - `skills/writing-for-agents`
 
